@@ -4,7 +4,7 @@
 
 ```c++
 #include <iostream>
-using namespace std;ßßß
+using namespace std;
 
 // main() 是程序开始执行的地方
 
